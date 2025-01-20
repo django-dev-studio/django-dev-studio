@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <h3> 
-  👨 Syed Faraz Alam | 👨🏻‍💻 Full Stack Engineer | 🌏 United State
+  👨 Syed Faraz Alam | 👨🏻‍💻 Full Stack Engineer | 🌏 United States
 </h3> 
 </div>
 
